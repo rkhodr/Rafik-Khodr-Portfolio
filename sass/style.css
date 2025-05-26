@@ -925,6 +925,14 @@ footer .bottombar {
 html {
   scroll-behavior: smooth;
 }
+
+.coursework ul {
+  list-style: disc;
+  list-style-position: inside;
+  text-align: center;
+  padding: 0;
+  margin: 0 auto;
+}
 /* Ensure the button stays centered */
 .button_a {
   margin: 0 auto;
