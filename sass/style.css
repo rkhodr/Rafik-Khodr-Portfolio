@@ -238,6 +238,9 @@ footer .bottombar {
   background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.5))), url(../img/computer-science-portfolio-banner.jpg) no-repeat;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(../img/computer-science-portfolio-banner.jpg) no-repeat;
   background-size: cover;
+    height: 60vh; 
+  display: flex; 
+  align-items: center;
 }
 
 .banner .container {
