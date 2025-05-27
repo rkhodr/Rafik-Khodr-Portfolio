@@ -96,6 +96,8 @@ a {
 /* header navigation menu */
 header {
   background-color: #0C1733;
+  position: relative;
+  z-index: 10;
 }
 
 nav {
@@ -241,6 +243,8 @@ footer .bottombar {
     height: 60vh; 
   display: flex; 
   align-items: center;
+  position: relative;
+  z-index: 1;
 }
 
 .banner .container {
